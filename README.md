@@ -1,1 +1,2 @@
-calculator mad emy strahinja kosovac
+calculator made by Strahinja Kosovac
+
